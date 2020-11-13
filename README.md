@@ -1,5 +1,4 @@
 # TicTacToe
- [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat)
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -16,9 +15,6 @@ Add more general information about project. What the purpose of the project is? 
 ## Technologies
 * .NET Framework 4.7.2
 
-
-## Code Examples
------
 
 ## Status
 Project is: _in progress_,
