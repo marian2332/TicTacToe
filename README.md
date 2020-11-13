@@ -11,7 +11,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Tictactoev.1.0.0ss.jpg)
 
 ## Technologies
 * .NET Framework 4.7.2
