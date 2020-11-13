@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("Tic Tac Toe")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("P.B")]
 [assembly: AssemblyProduct("Tic Tac Toe")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright © P.B 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

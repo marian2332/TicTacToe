@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace Tic_Tac_Toe
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         int gra = 0;
