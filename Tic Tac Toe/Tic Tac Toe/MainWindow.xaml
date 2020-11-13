@@ -1,0 +1,38 @@
+﻿<Window x:Class="Tic_Tac_Toe.MainWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tic_Tac_Toe"
+        mc:Ignorable="d"
+        Title="Tic Tac Toe" Height="380" Width="310" MaxHeight="380" MaxWidth="310" WindowStyle="ToolWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="1" x:Name="TextBlock" Height="50" Width="100" TextAlignment="Center" FontSize="28" />
+        <Button Grid.Row="0" Grid.Column="2" x:Name="Reset" Height="30" Width="60" Content="Reset" Click="Reset_Click"/>
+        <Button Grid.Row="1" Grid.Column="0" x:Name="Button1" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="1" Grid.Column="1" x:Name="Button2" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="1" Grid.Column="2" x:Name="Button3" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="2" Grid.Column="0" x:Name="Button4" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="2" Grid.Column="1" x:Name="Button5" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="2" Grid.Column="2" x:Name="Button6" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="3" Grid.Column="0" x:Name="Button7" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="3" Grid.Column="1" x:Name="Button8" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+        <Button Grid.Row="3" Grid.Column="2" x:Name="Button9" Width="100" Height="100" FontSize="70" Click="Button_Click"/>
+
+    </Grid>
+
+
+</Window> 
