@@ -7,13 +7,14 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+ 13.11.2020r - version 1.0.0
+  * 
 
 ## Screenshots
 ![Example screenshot](./Tictactoev.1.0.0ss.jpg)
 
 ## Technologies
-* .NET Framework 4.7.2
+* N/A
 
 
 ## Status
