@@ -18,8 +18,8 @@ namespace Tic_Tac_Toe
     public partial class MainWindow : Window
     {
         int gra = 0;
-        readonly string player_x = "Gracz X";
-        readonly string player_o = "Gracz O";
+        readonly string player_x = "Gracz Xhjhjhjhjhjhj";
+        readonly string player_o = "Gracz Ohjhhhjh";
         readonly int x = 1;
         readonly int o = 2;
         int nrbuttona;
